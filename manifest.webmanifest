@@ -1,1 +1,11 @@
-
+{
+  "name": "Iman Whispers",
+  "short_name": "Iman Whispers",
+  "description": "Faith • Reminders • Peace",
+  "start_url": "/iman-whispers-website-2026/",
+  "scope": "/iman-whispers-website-2026/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff5f8",
+  "theme_color": "#8e3157"
+}
