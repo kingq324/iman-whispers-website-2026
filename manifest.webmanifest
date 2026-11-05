@@ -9,3 +9,17 @@
   "background_color": "#fff5f8",
   "theme_color": "#8e3157"
 }
+"theme_color": "#8e3157"
+"theme_color": "#8e3157",
+"icons": [
+  {
+    "src": "/iman-whispers-website-2026/iman-whispers-icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/iman-whispers-website-2026/iman-whispers-icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
